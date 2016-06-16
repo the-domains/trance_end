@@ -9,8 +9,8 @@ description: >-
   websites through cryptocurrency micro-transactions. Help
   revolutionize/eliminate the advertising based internet. Download the free
   Chrome browser app today!
-datePublished: '2016-06-10T22:12:07.378Z'
-dateModified: '2016-06-10T22:11:55.661Z'
+datePublished: '2016-06-16T14:21:49.890Z'
+dateModified: '2016-06-16T14:21:21.750Z'
 title: ''
 author: []
 sourcePath: >-
@@ -22,19 +22,9 @@ url: keep-up-to-date-with-the-adzcoin-project-and-their-efforts-t/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2895162b-95d9-4880-9cfc-128bb7804db6.jpg)
-
-* **_Personal Branding _**at its finest! 
-* **_Promote_** your business or passion.
-* Think Facebook+Twitter+YouTube+INSTA/PIN
-* User generated content that **_PAYS YOU!_**
-* **_[Profit Pages][0]_**
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be01b0f7-43d6-4065-a0e9-787c97995881.jpg)
 
-Keep up to date with the [Adzcoin Project][1] and their efforts to monetize websites through cryptocurrency micro-transactions. Help revolutionize/eliminate the advertising based internet. Download the free Chrome browser [app][2] today!
+Keep up to date with the [Adzcoin Project][0] and their efforts to monetize websites through cryptocurrency micro-transactions. Help revolutionize/eliminate the advertising based internet. Download the free Chrome browser [app][1] today!
 
-[0]: https://bitbillions.com/?aff=39212
-[1]: http://adzcoindesk.com/will-adzcoin-monetization-replace-the-ad-supported-web-soon/
-[2]: https://chrome.google.com/webstore/detail/adzcoin-savers/klbfpaaimakohenmbjjpalbchocckpfg?hl=en
+[0]: http://adzcoindesk.com/will-adzcoin-monetization-replace-the-ad-supported-web-soon/
+[1]: https://chrome.google.com/webstore/detail/adzcoin-savers/klbfpaaimakohenmbjjpalbchocckpfg?hl=en
